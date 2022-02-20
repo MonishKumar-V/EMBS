@@ -1,4 +1,19 @@
-﻿
+## BLOCK DIAGRAM
+
+
+
+
+
+
+
+
+
+![MP#3](https://user-images.githubusercontent.com/75168665/154834389-75e4e151-0b98-4f7d-b3dc-32393d38ffd6.jpeg)
+
+
+
+
+
 ## MP3 Player
 
 **User Input:** *The user can give input to the embedded device by using the buttons. They can also use mic to give input if the feature is added in the system.* 
@@ -13,6 +28,11 @@
 
 **External Memory:** *This part is used to store the songs and fetch it whenever is required.*
 
+
+
+## BlOCK DIAGRAM
+
+![ACC](https://user-images.githubusercontent.com/75168665/154834436-ced23555-1d97-4487-bdc0-e2d0aba8710c.jpeg)
 
 
 

@@ -1,9 +1,9 @@
+
+
+## MP3 PLAYER
+
+
 ## BLOCK DIAGRAM
-
-
-
-
-
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-## MP3 Player
+## Description:
 
 **User Input:** *The user can give input to the embedded device by using the buttons. They can also use mic to give input if the feature is added in the system.* 
 
@@ -30,13 +30,15 @@
 
 
 
+## ADAPTIVE CRUISE CONTROL
+
 ## BlOCK DIAGRAM
 
 ![ACC](https://user-images.githubusercontent.com/75168665/154834436-ced23555-1d97-4487-bdc0-e2d0aba8710c.jpeg)
 
 
 
-## Adaptive cruise control
+## Describtion:
 
 **User Input:** *The user has to set the speed limit to the system through buttons.* 
 
@@ -55,6 +57,10 @@
 **Instrument Cluster:** *It displays that this mode is on or off and also it displays warning message to the cluster incase of emergency.* 
 
 **Speaker:** *It is used for safety to alert the driver incase of emergency.*
+
+
+
+
 
 
 
